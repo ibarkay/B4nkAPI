@@ -8,6 +8,7 @@
 
 ## About <a name = "about"></a>
 
+:bank:
 a Bank Api - as a manager in the bank the user can do the following tasks:
 Add users,Depositing,Update credit,Withdraw money,Transferring,Show details of user,Show details of all users.
 

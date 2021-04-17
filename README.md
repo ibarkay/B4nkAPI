@@ -33,6 +33,8 @@ To start and serve the API :
 node app.js
 ```
 
+![Alt text](https://raw.githubusercontent.com/ibarkay/B4nkAPI/main/screenshots/terminal.png)
+
 then make the different requests to API in http://localhost:3000
 
 ![Alt text](https://raw.githubusercontent.com/ibarkay/B4nkAPI/main/screenshots/post_man_reqs_to_bank_api.png)
